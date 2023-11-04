@@ -1,2 +1,2 @@
 # sapbtp - sapbtp
-> My Business Application a
+> My Business Application
